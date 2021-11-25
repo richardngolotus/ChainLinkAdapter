@@ -1,6 +1,6 @@
-name: API Aggregator
+name: API Aggregator UNI
 description: Adapter that can retrieve the mean, median or mode on numerical values for any given amount of APIs.
-node_identifier: apiaggregator_richardngo
+node_identifier: apiaggregator_uni
 platforms:
   - Docker
   - AWS Lambda
